@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .doc{fill:#3f8fff;opacity:.8}
+    .qry{fill:#ff8c3f;opacity:.8}
+    text{font:10px sans-serif;fill:#444}
+  </style>
+
+  <!-- 60 dimensions only (first 60 of 384) -->
+  <g id="bars">
+    <!-- doc vector (blue) -->
+    <rect class="doc" x="0"   y="92.6" width="6" height="7.4"/>  <!--  0.036937 -->
+    <rect class="doc" x="12"  y="99.5" width="6" height="0.5"/>  <!--  0.000541 -->
+    <rect class="doc" x="24"  y="103.5" width="6" height="3.5"/> <!-- -0.035283 -->
+    <rect class="doc" x="36"  y="103.3" width="6" height="3.3"/> <!-- -0.032864 -->
+    <rect class="doc" x="48"  y="99.6" width="6" height="0.4"/>  <!--  0.003649 -->
+    <rect class="doc" x="60"  y="98.6" width="6" height="1.4"/>  <!--  0.013781 -->
+    <rect class="doc" x="72"  y="102.7" width="6" height="2.7"/> <!-- -0.026764 -->
+    <rect class="doc" x="84"  y="105.1" width="6" height="5.1"/> <!-- -0.051254 -->
+    <rect class="doc" x="96"  y="101.5" width="6" height="1.5"/> <!-- -0.014773 -->
+    <rect class="doc" x="108" y="90.7" width="6" height="9.3"/>  <!--  0.092816 -->
+    <rect class="doc" x="120" y="105.6" width="6" height="5.6"/> <!-- -0.055520 -->
+    <rect class="doc" x="132" y="99.3" width="6" height="0.7"/>  <!--  0.007024 -->
+    <rect class="doc" x="144" y="91.5" width="6" height="8.6"/>  <!--  0.085444 -->
+    <rect class="doc" x="156" y="98.0" width="6" height="2.0"/>  <!--  0.020175 -->
+    <rect class="doc" x="168" y="105.0" width="6" height="5.0"/> <!-- -0.050041 -->
+    <rect class="doc" x="180" y="101.9" width="6" height="1.9"/> <!-- -0.019425 -->
+    <rect class="doc" x="192" y="96.9" width="6" height="3.1"/>  <!--  0.030567 -->
+    <rect class="doc" x="204" y="105.9" width="6" height="5.9"/> <!-- -0.059327 -->
+    <rect class="doc" x="216" y="106.3" width="6" height="6.3"/> <!-- -0.063400 -->
+    <rect class="doc" x="228" y="103.5" width="6" height="3.5"/> <!-- -0.035098 -->
+    <rect class="doc" x="240" y="95.5" width="6" height="4.5"/>  <!--  0.044878 -->
+    <rect class="doc" x="252" y="96.7" width="6" height="3.3"/>  <!--  0.033254 -->
+    <rect class="doc" x="264" y="101.7" width="6" height="1.7"/> <!-- -0.017052 -->
+    <rect class="doc" x="276" y="96.7" width="6" height="3.3"/>  <!--  0.033319 -->
+    <rect class="doc" x="288" y="94.6" width="6" height="5.4"/>  <!--  0.053885 -->
+    <rect class="doc" x="300" y="105.3" width="6" height="5.3"/> <!-- -0.052894 -->
+    <rect class="doc" x="312" y="99.4" width="6" height="0.6"/>  <!--  0.005577 -->
+    <rect class="doc" x="324" y="95.4" width="6" height="4.6"/>  <!--  0.046407 -->
+    <rect class="doc" x="336" y="99.6" width="6" height="0.4"/>  <!--  0.004183 -->
+    <rect class="doc" x="348" y="102.4" width="6" height="2.4"/> <!-- -0.023501 -->
+    <rect class="doc" x="360" y="98.1" width="6" height="1.9"/>  <!--  0.019455 -->
+    <rect class="doc" x="372" y="94.6" width="6" height="5.4"/>  <!--  0.054199 -->
+    <rect class="doc" x="384" y="102.3" width="6" height="2.3"/> <!-- -0.022748 -->
+    <rect class="doc" x="396" y="98.4" width="6" height="1.6"/>  <!--  0.016353 -->
+    <rect class="doc" x="408" y="95.1" width="6" height="4.9"/>  <!--  0.048725 -->
+    <rect class="doc" x="420" y="97.9" width="6" height="2.1"/>  <!--  0.021411 -->
+    <rect class="doc" x="432" y="96.5" width="6" height="3.5"/>  <!--  0.035295 -->
+    <rect class="doc" x="444" y="99.4" width="6" height="0.6"/>  <!--  0.005792 -->
+    <rect class="doc" x="456" y="99.5" width="6" height="0.5"/>  <!-- -0.005204 -->
+    <rect class="doc" x="468" y="104.8" width="6" height="4.8"/> <!-- -0.048477 -->
+    <rect class="doc" x="480" y="101.6" width="6" height="1.6"/> <!-- -0.015816 -->
+    <rect class="doc" x="492" y="99.5" width="6" height="0.5"/>  <!--  0.005219 -->
+    <rect class="doc" x="504" y="99.6" width="6" height="0.4"/>  <!--  0.004437 -->
+    <rect class="doc" x="516" y="101.3" width="6" height="1.3"/> <!-- -0.013421 -->
+    <rect class="doc" x="528" y="107.5" width="6" height="7.5"/> <!-- -0.074996 -->
+    <rect class="doc" x="540" y="100.9" width="6" height="0.9"/> <!-- -0.008989 -->
+    <rect class="doc" x="552" y="97.6" width="6" height="2.4"/>  <!--  0.024284 -->
+    <rect class="doc" x="564" y="93.3" width="6" height="6.7"/>  <!--  0.066624 -->
+    <rect class="doc" x="576" y="106.4" width="6" height="6.4"/> <!-- -0.063550 -->
+    <rect class="doc" x="588" y="97.8" width="6" height="2.2"/>  <!--  0.022396 -->
+    <rect class="doc" x="600" y="91.0" width="6" height="9.0"/>  <!--  0.089631 -->
+    <rect class="doc" x="612" y="97.9" width="6" height="2.1"/>  <!--  0.020556 -->
+    <rect class="doc" x="624" y="104.4" width="6" height="4.4"/> <!-- -0.043977 -->
+    <rect class="doc" x="636" y="101.9" width="6" height="1.9"/> <!-- -0.019211 -->
+    <rect class="doc" x="648" y="105.4" width="6" height="5.4"/> <!-- -0.053510 -->
+    <rect class="doc" x="660" y="104.8" width="6" height="4.8"/> <!-- -0.047809 -->
+    <rect class="doc" x="672" y="100.7" width="6" height="0.7"/> <!-- -0.006662 -->
+    <rect class="doc" x="684" y="100.5" width="6" height="0.5"/> <!-- -0.004510 -->
+    <rect class="doc" x="696" y="98.0" width="6" height="2.0"/>  <!--  0.019986 -->
+    <rect class="doc" x="708" y="101.1" width="6" height="1.1"/> <!-- -0.010689 -->
+
+    <!-- query vector (orange) – same 60 dims -->
+    <rect class="qry" x="0"   y="91.2" width="6" height="8.8"/>  <!--  0.087700 -->
+    <rect class="qry" x="12"  y="99.9" width="6" height="0.1"/>  <!--  0.000862 -->
+    <rect class="qry" x="24"  y="104.8" width="6" height="4.8"/> <!-- -0.047531 -->
+    <rect class="qry" x="36"  y="104.5" width="6" height="4.5"/> <!-- -0.045005 -->
+    <rect class="qry" x="48"  y="99.0" width="6" height="1.0"/>  <!--  0.010011 -->
+    <rect class="qry" x="60"  y="95.9" width="6" height="4.1"/>  <!--  0.040510 -->
+    <rect class="qry" x="72"  y="101.6" width="6" height="1.6"/> <!-- -0.015682 -->
+    <rect class="qry" x="84"  y="101.7" width="6" height="1.7"/> <!-- -0.017089 -->
+    <rect class="qry" x="96"  y="102.4" width="6" height="2.4"/> <!-- -0.023887 -->
+    <rect class="qry" x="108" y="92.0" width="6" height="8.0"/>  <!--  0.080264 -->
+    <rect class="qry" x="120" y="100.4" width="6" height="0.4"/>  <!-- -0.003536 -->
+    <rect class="qry" x="132" y="97.6" width="6" height="2.4"/>  <!--  0.023364 -->
+    <rect class="qry" x="144" y="94.1" width="6" height="5.9"/>  <!--  0.058779 -->
+    <rect class="qry" x="156" y="95.5" width="6" height="4.5"/>  <!--  0.045304 -->
+    <rect class="qry" x="168" y="105.3" width="6" height="5.3"/> <!-- -0.053309 -->
+    <rect class="qry" x="180" y="99.4" width="6" height="0.6"/>  <!--  0.005963 -->
+    <rect class="qry" x="192" y="99.2" width="6" height="0.8"/>  <!--  0.007792 -->
+    <rect class="qry" x="204" y="107.7" width="6" height="7.7"/> <!-- -0.077211 -->
+    <rect class="qry" x="216" y="102.1" width="6" height="2.1"/> <!-- -0.020949 -->
+    <rect class="qry" x="228" y="100.1" width="6" height="0.1"/>  <!-- -0.000628 -->
+    <rect class="qry" x="240" y="96.1" width="6" height="3.9"/>  <!--  0.038634 -->
+    <rect class="qry" x="252" y="99.9" width="6" height="0.1"/>  <!--  0.001426 -->
+    <rect class="qry" x="264" y="104.0" width="6" height="4.0"/> <!-- -0.039887 -->
+    <rect class="qry" x="276" y="90.9" width="6" height="9.1"/>  <!--  0.091459 -->
+    <rect class="qry" x="288" y="94.6" width="6" height="5.3"/>  <!--  0.053666 -->
+    <rect class="qry" x="300" y="101.9" width="6" height="1.9"/> <!-- -0.019034 -->
+    <rect class="qry" x="312" y="101.2" width="6" height="1.2"/> <!-- -0.011953 -->
+    <rect class="qry" x="324" y="99.6" width="6" height="0.4"/>  <!--  0.004328 -->
+    <rect class="qry" x="336" y="99.8" width="6" height="0.2"/>  <!--  0.001866 -->
+    <rect class="qry" x="348" y="104.9" width="6" height="4.9"/> <!-- -0.048610 -->
+    <rect class="qry" x="360" y="99.8" width="6" height="0.2"/>  <!--  0.002049 -->
+    <rect class="qry" x="372" y="93.2" width="6" height="6.8"/>  <!--  0.067520 -->
+    <rect class="qry" x="384" y="101.8" width="6" height="1.8"/> <!-- -0.018081 -->
+    <rect class="qry" x="396" y="91.8" width="6" height="8.2"/>  <!--  0.081721 -->
+    <rect class="qry" x="408" y="98.5" width="6" height="1.5"/>  <!--  0.015338 -->
+    <rect class="qry" x="420" y="101.5" width="6" height="1.5"/> <!-- -0.015242 -->
+    <rect class="qry" x="432" y="97.5" width="6" height="2.5"/>  <!--  0.024944 -->
+    <rect class="qry" x="444" y="101.6" width="6" height="1.6"/> <!-- -0.015732 -->
+    <rect class="qry" x="456" y="100.3" width="6" height="0.3"/>  <!-- -0.002637 -->
+    <rect class="qry" x="468" y="102.2" width="6" height="2.2"/> <!-- -0.021848 -->
+    <rect class="qry" x="480" y="103.4" width="6" height="3.4"/> <!-- -0.034241 -->
+    <rect class="qry" x="492" y="103.8" width="6" height="3.8"/> <!-- -0.037547 -->
+    <rect class="qry" x="504" y="104.1" width="6" height="4.1"/> <!-- -0.041221 -->
+    <rect class="qry" x="516" y="103.3" width="6" height="3.3"/> <!-- -0.033301 -->
+    <rect class="qry" x="528" y="107.9" width="6" height="7.9"/> <!-- -0.078584 -->
+    <rect class="qry" x="540" y="103.0" width="6" height="3.0"/> <!-- -0.029584 -->
+    <rect class="qry" x="552" y="101.0" width="6" height="1.0"/>  <!-- -0.010349 -->
+    <rect class="qry" x="564" y="98.6" width="6" height="1.4"/>  <!--  0.013844 -->
+    <rect class="qry" x="576" y="106.1" width="6" height="6.1"/> <!-- -0.061348 -->
+    <rect class="qry" x="588" y="100.0" width="6" height="0.0"/>  <!--  0.000504 -->
+    <rect class="qry" x="600" y="87.7" width="6" height="12.3"/> <!--  0.122887 -->
+    <rect class="qry" x="612" y="100.7" width="6" height="0.7"/> <!-- -0.007133 -->
+    <rect class="qry" x="624" y="105.6" width="6" height="5.6"/> <!-- -0.055599 -->
+    <rect class="qry" x="636" y="101.0" width="6" height="1.0"/>  <!-- -0.010396 -->
+    <rect class="qry" x="648" y="103.0" width="6" height="3.0"/> <!-- -0.029797 -->
+    <rect class="qry" x="660" y="104.4" width="6" height="4.4"/> <!-- -0.043966 -->
+    <rect class="qry" x="672" y="99.3" width="6" height="0.7"/>  <!--  0.006946 -->
+    <rect class="qry" x="684" y="102.2" width="6" height="2.2"/> <!-- -0.021501 -->
+    <rect class="qry" x="696" y="98.0" width="6" height="2.0"/>  <!--  0.019905 -->
+    <rect class="qry" x="708" y="101.9" width="6" height="1.9"/> <!-- -0.018869 -->
+  </g>
+
+  <!-- legend -->
+  <g id="legend">
+    <rect class="doc" x="10" y="10" width="15" height="10"/>
+    <text x="30" y="19">document vector</text>
+    <rect class="qry" x="150" y="10" width="15" height="10"/>
+    <text x="170" y="19">query vector</text>
+  </g>
+</svg>
