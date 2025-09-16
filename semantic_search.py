@@ -55,19 +55,19 @@ def search_documents(query, num_results=1):
         print(f"Error during vector search: {e}")
         return None
 
-if __name__ == "__main__":
-    #
-    user_question = "What is aadhar?" 
+# if __name__ == "__main__":
+#     #
+#     user_question = "What is aadhar?" 
     
-    print(f"\nSearching for documents related to: '{user_question}'")
+#     print(f"\nSearching for documents related to: '{user_question}'")
     
-    search_results = search_documents(user_question)
+#     search_results = search_documents(user_question)
     
-    if search_results:
-        print("\n Found relevant document(s):")
-        for doc in search_results:
-            print(f"\n--- Document from: {doc.get('source_file', 'N/A')} ---")
-            print(f"Similarity Score: {doc['score']:.4f}")
-            print(f"Content: {doc['text']}")
-    else:
-        print("\nNo relevant documents found.")
+#     if search_results:
+#         print("\n Found relevant document(s):")
+#         for doc in search_results:
+#             print(f"\n--- Document from: {doc.get('source_file', 'N/A')} ---")
+#             print(f"Similarity Score: {doc['score']:.4f}")
+#             print(f"Content: {doc['text']}")
+#     else:
+#         print("\nNo relevant documents found.")
