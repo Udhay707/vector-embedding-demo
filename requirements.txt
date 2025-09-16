@@ -28,8 +28,11 @@ idna==3.10
 multidict==6.6.4
 multiprocess==0.70.16
 numpy==2.3.3
-packaging==25.0
+packaging==24.2
 pandas==2.3.2
+pinecone==7.3.0
+pinecone-plugin-assistant==1.8.0
+pinecone-plugin-interface==0.0.7
 propcache==0.3.2
 proto-plus==1.26.1
 protobuf==5.29.5
