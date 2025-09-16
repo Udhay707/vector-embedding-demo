@@ -1,7 +1,8 @@
 import google.generativeai as genai
 from dotenv import load_dotenv
 import os
-from semantic_search import search_documents
+# from semantic_search import search_documents
+from save_doc_with_pinecone import search_documents
 
 load_dotenv()
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
@@ -25,8 +26,8 @@ def get_system_prompt(prompt_file_path):
 
 # process_and_store_documents(os.getenv("DOCUMENT_FOLDER_PATH"))
 def get_response(user_input):
-    context_document = search_documents(user_input)
-    context = str(context_document[0]["text"])
+    context = search_documents(user_input)
+    # context = str(context_document[0]["text"])
     model = genai.GenerativeModel(os.getenv("LLM_MODEL"))
     sys_prompt = get_system_prompt(os.getenv("PROMPT_FOLDER_PATH")+"/user_query_prompt.txt")
     full_prompt = f"""
