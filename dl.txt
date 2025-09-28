@@ -1,0 +1,27 @@
+=== REGRESSION MODELS ===
+Predicting exact quality scores (3-9)
+
+Training Random Forest...
+Mean Squared Error: 0.299
+Root Mean Squared Error: 0.547
+R² Score: 0.527
+
+Training Linear Regression...
+Mean Squared Error: 0.397
+Root Mean Squared Error: 0.630
+R² Score: 0.371
+
+
+
+=== REGRESSION MODELS ===
+Predicting exact quality scores (3-9)
+
+Training Random Forest...
+Mean Squared Error: 0.416
+Root Mean Squared Error: 0.645
+R² Score: 0.408
+
+Training Linear Regression...
+Mean Squared Error: 0.468
+Root Mean Squared Error: 0.684
+R² Score: 0.333
